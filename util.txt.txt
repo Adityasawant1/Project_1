@@ -1,1 +1,1 @@
-Hey my first util in git
+Hey my second util in git
